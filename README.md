@@ -79,7 +79,7 @@ El proceso analítico ha permitido transformar datos complejos en una narrativa 
 ## Cómo Ejecutar el Proyecto 💻
 
 1. Clonar este repositorio.
-2. Ejecutar los el Notebook en Google Colab o Jupyterlab.
+2. Ejecutar el Notebook en Google Colab o Jupyterlab.
 
 ## Colaboradores 🤝
 
